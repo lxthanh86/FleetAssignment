@@ -1,0 +1,5 @@
+# File data of fleet component
+# TypeDenote   NumberOfAircrafts
+          01          52
+          02          15
+          03          14

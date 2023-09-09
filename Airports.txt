@@ -1,0 +1,5 @@
+# File data of airports
+# IATAcode    Capacity
+         DAD          22
+         HAN          47
+         SGN         104
